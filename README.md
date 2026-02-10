@@ -40,3 +40,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Run JSON server
+
+```sh
+json-server --watch src/jobs.json --port 8000
+```
